@@ -1,0 +1,9 @@
+
+.navbar-start{
+    background-color: rgb(153, 153, 199);
+}
+.navbar-item{
+    margin: 15%;
+    color:black;
+    position: relative;
+}
