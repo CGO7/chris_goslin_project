@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "../navbar/Navbar"
 import "./style.css";
 
 function ProjectCard(props) {
